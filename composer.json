@@ -1,0 +1,17 @@
+{
+    "name": "vendor/lote",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Lote\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrea Silva",
+            "email": "andreasilva23433@gmail.com"
+        }
+    ],
+    "require": {
+        "picqer/php-barcode-generator": "^2.4"
+    }
+}
